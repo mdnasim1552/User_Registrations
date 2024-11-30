@@ -1,0 +1,497 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\ASP.NET MVC PROJECTS\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F7D86437-D97F-48E3-9293-270D809584AB}|WebApplication1\\WebApplication1.csproj|F:\\ASP.NET MVC PROJECTS\\WebApplication1\\webapplication1\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7D86437-D97F-48E3-9293-270D809584AB}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7D86437-D97F-48E3-9293-270D809584AB}|WebApplication1\\WebApplication1.csproj|F:\\ASP.NET MVC PROJECTS\\WebApplication1\\webapplication1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7D86437-D97F-48E3-9293-270D809584AB}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7D86437-D97F-48E3-9293-270D809584AB}|WebApplication1\\WebApplication1.csproj|F:\\ASP.NET MVC PROJECTS\\WebApplication1\\webapplication1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F7D86437-D97F-48E3-9293-270D809584AB}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7D86437-D97F-48E3-9293-270D809584AB}|WebApplication1\\WebApplication1.csproj|F:\\ASP.NET MVC PROJECTS\\WebApplication1\\webapplication1\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F7D86437-D97F-48E3-9293-270D809584AB}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7D86437-D97F-48E3-9293-270D809584AB}|WebApplication1\\WebApplication1.csproj|F:\\ASP.NET MVC PROJECTS\\WebApplication1\\webapplication1\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7D86437-D97F-48E3-9293-270D809584AB}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7D86437-D97F-48E3-9293-270D809584AB}|WebApplication1\\WebApplication1.csproj|F:\\ASP.NET MVC PROJECTS\\WebApplication1\\webapplication1\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F7D86437-D97F-48E3-9293-270D809584AB}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7D86437-D97F-48E3-9293-270D809584AB}|WebApplication1\\WebApplication1.csproj|f:\\asp.net mvc projects\\webapplication1\\webapplication1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F7D86437-D97F-48E3-9293-270D809584AB}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7D86437-D97F-48E3-9293-270D809584AB}|WebApplication1\\WebApplication1.csproj|f:\\asp.net mvc projects\\webapplication1\\webapplication1\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F7D86437-D97F-48E3-9293-270D809584AB}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7D86437-D97F-48E3-9293-270D809584AB}|WebApplication1\\WebApplication1.csproj|f:\\asp.net mvc projects\\webapplication1\\webapplication1\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{F7D86437-D97F-48E3-9293-270D809584AB}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7D86437-D97F-48E3-9293-270D809584AB}|WebApplication1\\WebApplication1.csproj|F:\\ASP.NET MVC PROJECTS\\WebApplication1\\webapplication1\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{F7D86437-D97F-48E3-9293-270D809584AB}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7D86437-D97F-48E3-9293-270D809584AB}|WebApplication1\\WebApplication1.csproj|F:\\ASP.NET MVC PROJECTS\\WebApplication1\\webapplication1\\data\\processaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7D86437-D97F-48E3-9293-270D809584AB}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\data\\processaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7D86437-D97F-48E3-9293-270D809584AB}|WebApplication1\\WebApplication1.csproj|f:\\asp.net mvc projects\\webapplication1\\webapplication1\\views\\account\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7D86437-D97F-48E3-9293-270D809584AB}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\account\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7D86437-D97F-48E3-9293-270D809584AB}|WebApplication1\\WebApplication1.csproj|F:\\ASP.NET MVC PROJECTS\\WebApplication1\\webapplication1\\irepositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7D86437-D97F-48E3-9293-270D809584AB}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\irepositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7D86437-D97F-48E3-9293-270D809584AB}|WebApplication1\\WebApplication1.csproj|F:\\ASP.NET MVC PROJECTS\\WebApplication1\\webapplication1\\data\\iprocessaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7D86437-D97F-48E3-9293-270D809584AB}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\data\\iprocessaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7D86437-D97F-48E3-9293-270D809584AB}|WebApplication1\\WebApplication1.csproj|f:\\asp.net mvc projects\\webapplication1\\webapplication1\\views\\account\\forgotpasswordviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7D86437-D97F-48E3-9293-270D809584AB}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\account\\forgotpasswordviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7D86437-D97F-48E3-9293-270D809584AB}|WebApplication1\\WebApplication1.csproj|f:\\asp.net mvc projects\\webapplication1\\webapplication1\\views\\account\\resetpasswordviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7D86437-D97F-48E3-9293-270D809584AB}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\account\\resetpasswordviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7D86437-D97F-48E3-9293-270D809584AB}|WebApplication1\\WebApplication1.csproj|f:\\asp.net mvc projects\\webapplication1\\webapplication1\\views\\account\\profileviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7D86437-D97F-48E3-9293-270D809584AB}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\account\\profileviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7D86437-D97F-48E3-9293-270D809584AB}|WebApplication1\\WebApplication1.csproj|f:\\asp.net mvc projects\\webapplication1\\webapplication1\\validator\\comparepasswordsattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7D86437-D97F-48E3-9293-270D809584AB}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\validator\\comparepasswordsattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7D86437-D97F-48E3-9293-270D809584AB}|WebApplication1\\WebApplication1.csproj|F:\\ASP.NET MVC PROJECTS\\WebApplication1\\webapplication1\\userdefinemodels\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7D86437-D97F-48E3-9293-270D809584AB}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\userdefinemodels\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7D86437-D97F-48E3-9293-270D809584AB}|WebApplication1\\WebApplication1.csproj|F:\\ASP.NET MVC PROJECTS\\WebApplication1\\webapplication1\\userdefinemodels\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7D86437-D97F-48E3-9293-270D809584AB}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\userdefinemodels\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7D86437-D97F-48E3-9293-270D809584AB}|WebApplication1\\WebApplication1.csproj|F:\\ASP.NET MVC PROJECTS\\WebApplication1\\webapplication1\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7D86437-D97F-48E3-9293-270D809584AB}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7D86437-D97F-48E3-9293-270D809584AB}|WebApplication1\\WebApplication1.csproj|F:\\ASP.NET MVC PROJECTS\\WebApplication1\\webapplication1\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7D86437-D97F-48E3-9293-270D809584AB}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7D86437-D97F-48E3-9293-270D809584AB}|WebApplication1\\WebApplication1.csproj|F:\\ASP.NET MVC PROJECTS\\WebApplication1\\webapplication1\\app_start\\unityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7D86437-D97F-48E3-9293-270D809584AB}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\app_start\\unityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7D86437-D97F-48E3-9293-270D809584AB}|WebApplication1\\WebApplication1.csproj|f:\\asp.net mvc projects\\webapplication1\\webapplication1\\content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{F7D86437-D97F-48E3-9293-270D809584AB}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7D86437-D97F-48E3-9293-270D809584AB}|WebApplication1\\WebApplication1.csproj|F:\\ASP.NET MVC PROJECTS\\WebApplication1\\webapplication1\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7D86437-D97F-48E3-9293-270D809584AB}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\ASP.NET MVC PROJECTS\\WebApplication1\\packages\\Unity.Mvc5.1.4.0\\Readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:packages\\Unity.Mvc5.1.4.0\\Readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7D86437-D97F-48E3-9293-270D809584AB}|WebApplication1\\WebApplication1.csproj|F:\\ASP.NET MVC PROJECTS\\WebApplication1\\webapplication1\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F7D86437-D97F-48E3-9293-270D809584AB}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7D86437-D97F-48E3-9293-270D809584AB}|WebApplication1\\WebApplication1.csproj|F:\\ASP.NET MVC PROJECTS\\WebApplication1\\webapplication1\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F7D86437-D97F-48E3-9293-270D809584AB}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Readme.txt",
+              "DocumentMoniker": "F:\\ASP.NET MVC PROJECTS\\WebApplication1\\packages\\Unity.Mvc5.1.4.0\\Readme.txt",
+              "RelativeDocumentMoniker": "packages\\Unity.Mvc5.1.4.0\\Readme.txt",
+              "ToolTip": "F:\\ASP.NET MVC PROJECTS\\WebApplication1\\packages\\Unity.Mvc5.1.4.0\\Readme.txt",
+              "RelativeToolTip": "packages\\Unity.Mvc5.1.4.0\\Readme.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-11-30T13:07:06.652Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "F:\\ASP.NET MVC PROJECTS\\WebApplication1\\WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "F:\\ASP.NET MVC PROJECTS\\WebApplication1\\WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAADgAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-30T21:12:04.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "F:\\ASP.NET MVC PROJECTS\\WebApplication1\\WebApplication1\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\_ViewStart.cshtml",
+              "ToolTip": "F:\\ASP.NET MVC PROJECTS\\WebApplication1\\WebApplication1\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-30T21:12:02.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Web.config",
+              "DocumentMoniker": "F:\\ASP.NET MVC PROJECTS\\WebApplication1\\WebApplication1\\Web.config",
+              "RelativeDocumentMoniker": "WebApplication1\\Web.config",
+              "ToolTip": "F:\\ASP.NET MVC PROJECTS\\WebApplication1\\WebApplication1\\Web.config",
+              "RelativeToolTip": "WebApplication1\\Web.config",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-30T20:43:16.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "User.cs",
+              "DocumentMoniker": "F:\\ASP.NET MVC PROJECTS\\WebApplication1\\WebApplication1\\Views\\Account\\User.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Account\\User.cs",
+              "ToolTip": "F:\\ASP.NET MVC PROJECTS\\WebApplication1\\WebApplication1\\Views\\Account\\User.cs",
+              "RelativeToolTip": "WebApplication1\\Views\\Account\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T19:53:42.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ProfileViewModel.cs",
+              "DocumentMoniker": "F:\\ASP.NET MVC PROJECTS\\WebApplication1\\WebApplication1\\Views\\Account\\ProfileViewModel.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Account\\ProfileViewModel.cs",
+              "ToolTip": "F:\\ASP.NET MVC PROJECTS\\WebApplication1\\WebApplication1\\Views\\Account\\ProfileViewModel.cs",
+              "RelativeToolTip": "WebApplication1\\Views\\Account\\ProfileViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T19:39:19.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ResetPasswordViewModel.cs",
+              "DocumentMoniker": "F:\\ASP.NET MVC PROJECTS\\WebApplication1\\WebApplication1\\Views\\Account\\ResetPasswordViewModel.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Account\\ResetPasswordViewModel.cs",
+              "ToolTip": "F:\\ASP.NET MVC PROJECTS\\WebApplication1\\WebApplication1\\Views\\Account\\ResetPasswordViewModel.cs",
+              "RelativeToolTip": "WebApplication1\\Views\\Account\\ResetPasswordViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T19:24:50.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ForgotPasswordViewModel.cs",
+              "DocumentMoniker": "F:\\ASP.NET MVC PROJECTS\\WebApplication1\\WebApplication1\\Views\\Account\\ForgotPasswordViewModel.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Account\\ForgotPasswordViewModel.cs",
+              "ToolTip": "F:\\ASP.NET MVC PROJECTS\\WebApplication1\\WebApplication1\\Views\\Account\\ForgotPasswordViewModel.cs",
+              "RelativeToolTip": "WebApplication1\\Views\\Account\\ForgotPasswordViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T19:23:53.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Site.css",
+              "DocumentMoniker": "F:\\ASP.NET MVC PROJECTS\\WebApplication1\\WebApplication1\\Content\\Site.css",
+              "RelativeDocumentMoniker": "WebApplication1\\Content\\Site.css",
+              "ToolTip": "F:\\ASP.NET MVC PROJECTS\\WebApplication1\\WebApplication1\\Content\\Site.css",
+              "RelativeToolTip": "WebApplication1\\Content\\Site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-30T16:40:04.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ComparePasswordsAttribute.cs",
+              "DocumentMoniker": "F:\\ASP.NET MVC PROJECTS\\WebApplication1\\WebApplication1\\Validator\\ComparePasswordsAttribute.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Validator\\ComparePasswordsAttribute.cs",
+              "ToolTip": "F:\\ASP.NET MVC PROJECTS\\WebApplication1\\WebApplication1\\Validator\\ComparePasswordsAttribute.cs",
+              "RelativeToolTip": "WebApplication1\\Validator\\ComparePasswordsAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T16:27:59.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "F:\\ASP.NET MVC PROJECTS\\WebApplication1\\WebApplication1\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\AccountController.cs",
+              "ToolTip": "F:\\ASP.NET MVC PROJECTS\\WebApplication1\\WebApplication1\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAewEoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T13:30:27.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "F:\\ASP.NET MVC PROJECTS\\WebApplication1\\WebApplication1\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Account\\Login.cshtml",
+              "ToolTip": "F:\\ASP.NET MVC PROJECTS\\WebApplication1\\WebApplication1\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-30T14:52:52.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "F:\\ASP.NET MVC PROJECTS\\WebApplication1\\WebApplication1\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Account\\Register.cshtml",
+              "ToolTip": "F:\\ASP.NET MVC PROJECTS\\WebApplication1\\WebApplication1\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-30T14:52:10.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "F:\\ASP.NET MVC PROJECTS\\WebApplication1\\WebApplication1\\UserDefineModels\\LoginModel.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\UserDefineModels\\LoginModel.cs",
+              "ToolTip": "F:\\ASP.NET MVC PROJECTS\\WebApplication1\\WebApplication1\\UserDefineModels\\LoginModel.cs",
+              "RelativeToolTip": "WebApplication1\\UserDefineModels\\LoginModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T13:47:15.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "RegisterModel.cs",
+              "DocumentMoniker": "F:\\ASP.NET MVC PROJECTS\\WebApplication1\\WebApplication1\\UserDefineModels\\RegisterModel.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\UserDefineModels\\RegisterModel.cs",
+              "ToolTip": "F:\\ASP.NET MVC PROJECTS\\WebApplication1\\WebApplication1\\UserDefineModels\\RegisterModel.cs",
+              "RelativeToolTip": "WebApplication1\\UserDefineModels\\RegisterModel.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAmwBIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T13:47:00.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "F:\\ASP.NET MVC PROJECTS\\WebApplication1\\WebApplication1\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Repositories\\UserRepository.cs",
+              "ToolTip": "F:\\ASP.NET MVC PROJECTS\\WebApplication1\\WebApplication1\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "WebApplication1\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAewDAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T13:38:05.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "F:\\ASP.NET MVC PROJECTS\\WebApplication1\\WebApplication1\\IRepositories\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\IRepositories\\IUserRepository.cs",
+              "ToolTip": "F:\\ASP.NET MVC PROJECTS\\WebApplication1\\WebApplication1\\IRepositories\\IUserRepository.cs",
+              "RelativeToolTip": "WebApplication1\\IRepositories\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T13:37:49.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "F:\\ASP.NET MVC PROJECTS\\WebApplication1\\WebApplication1\\Global.asax.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Global.asax.cs",
+              "ToolTip": "F:\\ASP.NET MVC PROJECTS\\WebApplication1\\WebApplication1\\Global.asax.cs",
+              "RelativeToolTip": "WebApplication1\\Global.asax.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T13:12:19.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UnityConfig.cs",
+              "DocumentMoniker": "F:\\ASP.NET MVC PROJECTS\\WebApplication1\\WebApplication1\\App_Start\\UnityConfig.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\App_Start\\UnityConfig.cs",
+              "ToolTip": "F:\\ASP.NET MVC PROJECTS\\WebApplication1\\WebApplication1\\App_Start\\UnityConfig.cs",
+              "RelativeToolTip": "WebApplication1\\App_Start\\UnityConfig.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T13:07:31.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "BundleConfig.cs",
+              "DocumentMoniker": "F:\\ASP.NET MVC PROJECTS\\WebApplication1\\WebApplication1\\App_Start\\BundleConfig.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\App_Start\\BundleConfig.cs",
+              "ToolTip": "F:\\ASP.NET MVC PROJECTS\\WebApplication1\\WebApplication1\\App_Start\\BundleConfig.cs",
+              "RelativeToolTip": "WebApplication1\\App_Start\\BundleConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T13:06:39.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Web.config",
+              "DocumentMoniker": "F:\\ASP.NET MVC PROJECTS\\WebApplication1\\WebApplication1\\Views\\Web.config",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Web.config",
+              "ToolTip": "F:\\ASP.NET MVC PROJECTS\\WebApplication1\\WebApplication1\\Views\\Web.config",
+              "RelativeToolTip": "WebApplication1\\Views\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAABsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-30T12:56:11.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProcessAccess.cs",
+              "DocumentMoniker": "F:\\ASP.NET MVC PROJECTS\\WebApplication1\\WebApplication1\\Data\\ProcessAccess.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Data\\ProcessAccess.cs",
+              "ToolTip": "F:\\ASP.NET MVC PROJECTS\\WebApplication1\\WebApplication1\\Data\\ProcessAccess.cs",
+              "RelativeToolTip": "WebApplication1\\Data\\ProcessAccess.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAnwFUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T12:15:12.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IProcessAccess.cs",
+              "DocumentMoniker": "F:\\ASP.NET MVC PROJECTS\\WebApplication1\\WebApplication1\\Data\\IProcessAccess.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Data\\IProcessAccess.cs",
+              "ToolTip": "F:\\ASP.NET MVC PROJECTS\\WebApplication1\\WebApplication1\\Data\\IProcessAccess.cs",
+              "RelativeToolTip": "WebApplication1\\Data\\IProcessAccess.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T12:14:56.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\ASP.NET MVC PROJECTS\\WebApplication1\\WebApplication1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Home\\Index.cshtml",
+              "ToolTip": "F:\\ASP.NET MVC PROJECTS\\WebApplication1\\WebApplication1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-30T11:52:06.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "F:\\ASP.NET MVC PROJECTS\\WebApplication1\\WebApplication1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\HomeController.cs",
+              "ToolTip": "F:\\ASP.NET MVC PROJECTS\\WebApplication1\\WebApplication1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAApwBUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T11:51:57.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "F:\\ASP.NET MVC PROJECTS\\WebApplication1\\WebApplication1\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "F:\\ASP.NET MVC PROJECTS\\WebApplication1\\WebApplication1\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-30T11:52:04.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "F:\\ASP.NET MVC PROJECTS\\WebApplication1\\WebApplication1\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Home\\About.cshtml",
+              "ToolTip": "F:\\ASP.NET MVC PROJECTS\\WebApplication1\\WebApplication1\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Home\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-30T11:52:01.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "F:\\ASP.NET MVC PROJECTS\\WebApplication1\\WebApplication1\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\App_Start\\RouteConfig.cs",
+              "ToolTip": "F:\\ASP.NET MVC PROJECTS\\WebApplication1\\WebApplication1\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "WebApplication1\\App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T11:51:39.612Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

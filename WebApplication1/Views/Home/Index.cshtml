@@ -1,0 +1,66 @@
+﻿@model WebApplication1.Views.Account.ProfileViewModel
+@{
+    ViewBag.Title = "Home Page";
+}
+<div class="card">
+    <div class="card-body">
+        <div class="row justify-content-center">
+            <div class="col-md-8">
+                <h2>Your Profile</h2>
+
+                @if (TempData["Message"] != null)
+                {
+                    <div class="alert alert-success">@TempData["Message"]</div>
+                }
+
+                @using (Html.BeginForm("UpdateProfile", "Home", FormMethod.Post))
+                {
+                    @Html.AntiForgeryToken()
+
+                    <div class="form-group mt-2">
+                        @Html.LabelFor(m => m.Email)
+                        @Html.TextBoxFor(m => m.Email, new { @class = "form-control", @readonly = "readonly" })
+                    </div>
+
+                    <div class="form-group mt-2">
+                        @Html.LabelFor(m => m.FullName)
+                        @Html.TextBoxFor(m => m.FullName, new { @class = "form-control" })
+                        @Html.ValidationMessageFor(m => m.FullName, "", new { @class = "text-danger" })
+                    </div>
+
+                    <div class="form-group mt-2">
+                        @Html.LabelFor(m => m.PhoneNumber)
+                        @Html.TextBoxFor(m => m.PhoneNumber, new { @class = "form-control" })
+                        @Html.ValidationMessageFor(m => m.PhoneNumber, "", new { @class = "text-danger" })
+                    </div>
+
+                    <div class="form-group mt-2">
+                        @Html.LabelFor(m => m.Address)
+                        @Html.TextBoxFor(m => m.Address, new { @class = "form-control" })
+                        @Html.ValidationMessageFor(m => m.Address, "", new { @class = "text-danger" })
+                    </div>
+
+                    <div class="d-flex mt-3">
+                        <button type="submit" class="btn btn-primary">Update Profile</button>
+                        <button type="button" class="btn btn-danger ms-2" onclick="deleteProfile()">Delete Profile</button>
+                    </div>
+                }
+
+                <!-- Separate Delete Profile Form -->
+                @using (Html.BeginForm("DeleteProfile", "Home", FormMethod.Post, new { id = "deleteProfileForm", style = "display:none;" }))
+                {
+                    @Html.AntiForgeryToken()
+                }
+            </div>
+        </div>      
+        
+    </div>
+</div>
+<script type="text/javascript">
+    function deleteProfile() {
+        if (confirm('Are you sure you want to delete your account?')) {
+            // You can either submit a form to the delete action or use AJAX
+            document.getElementById("deleteProfileForm").submit();
+        }
+    }
+</script>
